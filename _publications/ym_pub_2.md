@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/ym_pub_2
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2021
+date: 2021-02-10
 venue: 'New England Journal of Medicine'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.nejm.org/doi/full/10.1056/NEJMms2031080'
