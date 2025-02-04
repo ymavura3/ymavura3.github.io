@@ -17,7 +17,7 @@ My interests include:
 1. Data visualization methods
 
 
-I received my PhD in Epidemiology and Translational Science from University of California San Francisco, working with Neil Risch, and received a MS in Bioinformatics from Georgia Institute of Technology. Before that, I received a BS in Biochemistry and Mmolecular Biology from Jomo Kenyatta University of Agriculture and Technology, Kenya.
+I received my PhD in Epidemiology and Translational Science from University of California San Francisco, working with Neil Risch, and received a MS in Bioinformatics from Georgia Institute of Technology. Before that, I received a BS in Biochemistry and Molecular Biology from Jomo Kenyatta University of Agriculture and Technology, Kenya.
 
 ![Picture to usher in informal side](/images/IMG_6015.jpg)
 
