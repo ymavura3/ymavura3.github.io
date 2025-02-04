@@ -24,7 +24,7 @@ author:
   avatar           : "IMG_3092.jpg"
   name             : "Yusuph Mavura, PhD"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : "yusuph.mavura[at]ucsf.edu" #"Short biography for the left-hand sidebar"
   location         : "San Francisco"
   employer         : "UCSF"
  # uri              : "yusuph.mavura[at]ucsf.edu"
