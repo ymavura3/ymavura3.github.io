@@ -15,10 +15,10 @@ main:
    # url: /teaching/    
 
   - title: "Service"
-    url: /portfolio/  
+ #   url: /portfolio/  
         
   - title: "Blog Posts"
-    url: /year-archive/
+  #  url: /year-archive/
 
   - title: "Resume"
     #url: /resume/
