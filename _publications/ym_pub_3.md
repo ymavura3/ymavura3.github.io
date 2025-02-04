@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/ym_pub_3
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2024
+date: 2024-01-03
 venue: 'NPJ Genomic Medicine'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.nature.com/articles/s41525-023-00385-6'
