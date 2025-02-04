@@ -5,23 +5,31 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
+  #- title: "Research"
+   # url: /research/
+   
+  - title: "Research"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Teaching"
+   # url: /teaching/    
+
+  - title: "Service"
+    url: /portfolio/  
         
   - title: "Blog Posts"
     url: /year-archive/
+
+  - title: "Resume"
+    #url: /resume/
+    url: /files/Yusuph_Mavura_Resume_Jan_25.pdf
     
   - title: "CV"
-    url: /cv/
+    url: /files/Yusuph_Mavura_CV_August_2024.pdf
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Portfolio"
+   # url: /portfolio/
+
+  #- title: "Guide"
+    #url: /markdown/
+    
