@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/ym_pub_1
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023
+date: 2023-01-04
 venue: 'The Prostate'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/pros.24471?casa_token=9g5Ng-_hXMcAAAAA%3A3rFJDngxrsT5DoxiaOoiHGaW--YR0swfXFiS_yFcOjQeVbYTlqe95e_hwhgjcfLKajveks3cKTCtDQtT'
