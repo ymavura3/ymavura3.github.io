@@ -27,8 +27,8 @@ author:
   bio              : "yusuph.mavura[at]ucsf.edu" #"Short biography for the left-hand sidebar"
   location         : "San Francisco"
   employer         : "UCSF"
- # uri              : "yusuph.mavura[at]ucsf.edu"
-  email            : "yusuph.mavura[at]ucsf.edu" 
+  uri              : #"yusuph.mavura[at]ucsf.edu"
+  email            : #"yusuph.mavura[at]ucsf.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
