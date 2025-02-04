@@ -8,5 +8,5 @@ date: 2021-02-10
 venue: 'New England Journal of Medicine'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.nejm.org/doi/full/10.1056/NEJMms2031080'
-citation: 'Oni-Orisan, Akinyemi, **Yusuph Mavura**, Yambazi Banda, Timothy A. Thornton, and Ronnie Sebro. New England Journal of Medicine 384, no. 12 (2021): 1163-1167.'
+citation: 'Oni-Orisan, Akinyemi, Yusuph Mavura, Yambazi Banda, Timothy A. Thornton, and Ronnie Sebro. New England Journal of Medicine 384, no. 12 (2021): 1163-1167.'
 ---
