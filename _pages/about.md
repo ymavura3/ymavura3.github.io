@@ -24,4 +24,3 @@ I received my PhD in Epidemiology and Translational Science from University of C
 I proudly embrace my Tanzanian heritage and Kenyan upbringing, and I enjoy chatting in Kiswahili whenever I have the chance. I also love cooking traditional dishes, both to stay connected to my culture and because the food is simply delicious!
 
 I enjoy playing futbol (shoutout to SF Goats) and watching Liverpool F.C., hiking, golf, anime, roadtrips, comedy clubs, hanging out and more!
-
