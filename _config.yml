@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yusuph's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Yusuph Mavura, PhD"
 description              : #&description "personal description"
